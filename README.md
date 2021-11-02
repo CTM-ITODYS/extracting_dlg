@@ -7,7 +7,7 @@ information (energy and cluster) is also generated.
 
 Usage in a shell:
 
-extracting_dlg
+% extracting_dlg
 
 You may add this software on a repertory and add it on the $PATH variable of your software.
 
